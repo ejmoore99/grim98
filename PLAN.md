@@ -10,6 +10,8 @@
   - Organize the folder structure for both backend and frontend, creating directories like `server` for backend and `client` for frontend.
 - **Initialize a new Node.js project with `npm init`**
   - Run `npm init` to create a `package.json` file which will manage project dependencies.
+- **Set up `index.html` in the `public` directory**
+- Place the `index.html` file in the `public` directory of the React project. This file serves as the entry point for the React application.
 
 ### Day 3-4: Basic Server Setup
 
